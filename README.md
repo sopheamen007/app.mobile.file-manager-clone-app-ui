@@ -1,4 +1,9 @@
-# file_manager_clone
+# File Manager Clone App UI
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube](https://youtu.be/EI78krEb2AE)
+
+![Twitch App UI](https://user-images.githubusercontent.com/16510597/184475420-4d3b6eff-8b95-4810-a55b-9ac3ae82662d.jpeg)
 
 A new Flutter project.
 
